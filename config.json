@@ -1,0 +1,131 @@
+{
+  "code": "DONGNAM",
+  "title": "SMASH DONGNAM",
+  "school": "동남보건대",
+  "fullName": "동남보건대학교",
+  "campusName": "동남보건대학교",
+  "tagline": "동남보건대를 부셔 (시험기간 스트레스 해소)",
+  "description": "동남보건대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 동남보건대학교 3D 화면과 SMASH DONGNAM 제목",
+  "url": "https://hong-iron.github.io/SMASH-DONGNAM/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 40790605
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/40790614",
+      "n": "학생회관",
+      "why": "같은 건물 겹침 — 학생회관을 두 번 그린 것으로, 사진의 갈색 지붕과 맞는 20번을 남기고 동쪽 주차장 위로 밀려 그려진 이 윤곽은 뺀다."
+    },
+    {
+      "id": "way/549526157",
+      "n": "전하리교회",
+      "why": "학교 건물 아님 — 학교 땅이 아닌 종교용지(정자동 869-3)에 선 전하리교회라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        37.2990171,
+        126.9861494
+      ],
+      "n": "수위실2",
+      "why": "항공사진에 없음 — 수위실 기록 자리가 혜정관 안뜰의 잔디와 나무라 따로 선 건물이 없고, 실제 수위실2는 25번이다."
+    },
+    {
+      "at": [
+        37.2977641,
+        126.9859742
+      ],
+      "n": "쓰레기수집장",
+      "why": "항공사진에 없음 — 사진을 밝게 키워 봐도 담장 옆 나무와 이어진 포장길만 보이고 지붕이 없으며, 학교에 등록된 쓰레기수집장은 15번 하나뿐이다."
+    },
+    {
+      "at": [
+        37.2991693,
+        126.9872428
+      ],
+      "n": "단상",
+      "why": "항공사진에 없음 — 단상 기록 자리가 로터리 앞 찻길 위라 아무것도 없고, 실제 단상은 19번이다."
+    },
+    {
+      "at": [
+        37.2968506,
+        126.9867065
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 해운관 북쪽 지붕 끝에 붙은 41㎡짜리 조각이라 1번 해운관과 같은 건물이다."
+    }
+  ],
+  "look": {
+    "대학본부": {
+      "style": "tan",
+      "wall": "#d2b994",
+      "glass": "#3e5652",
+      "frame": "#e6d6b8"
+    },
+    "사담기념관": {
+      "style": "stone",
+      "wall": "#85888d",
+      "glass": "#3c434b",
+      "frame": "#a3a6ab"
+    },
+    "노송관": {
+      "style": "brick",
+      "wall": "#725347",
+      "glass": "#3b4850",
+      "frame": "#bfb8ae"
+    },
+    "동남관": {
+      "style": "brick",
+      "wall": "#6f544b",
+      "glass": "#3a5f8a",
+      "frame": "#cfc9bf"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#9a6656",
+      "glass": "#3a4048",
+      "frame": "#efebe6"
+    },
+    "학리관": {
+      "style": "stone",
+      "wall": "#ebeaeb",
+      "glass": "#4f6c72",
+      "frame": "#909092"
+    },
+    "학술정보관": {
+      "style": "stone",
+      "wall": "#e3ddd5",
+      "glass": "#4a6d8c",
+      "frame": "#8a908d"
+    },
+    "해운관": {
+      "style": "stone",
+      "wall": "#a8a8ac",
+      "glass": "#485a62",
+      "frame": "#c8c8cc"
+    },
+    "동남보건대학교부설 동남유치원": {
+      "style": "brick",
+      "wall": "#8b5a48",
+      "glass": "#4f7fae",
+      "frame": "#d8d4cc"
+    },
+    "행복기숙사": {
+      "style": "dorm",
+      "wall": "#dfe3e8",
+      "glass": "#2f5f9e",
+      "frame": "#9aa4b0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
