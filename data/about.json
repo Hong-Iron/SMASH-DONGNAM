@@ -1,0 +1,34 @@
+{
+ "region": "경기 수원시 장안구 정자동",
+ "nameEn": "Dongnam Health University",
+ "added": "2026-10-27T21:00",
+ "rank": 191,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SKKU-SUWON",
+   "campus": "성균관대학교 자연과학캠퍼스",
+   "km": 1.2
+  },
+  {
+   "code": "KNUT-UIWANG",
+   "campus": "국립한국교통대학교 의왕캠퍼스",
+   "km": 3.5
+  },
+  {
+   "code": "KYONGGI",
+   "campus": "경기대학교 수원캠퍼스",
+   "km": 4.4
+  },
+  {
+   "code": "AJOU",
+   "campus": "아주대학교",
+   "km": 5.5
+  },
+  {
+   "code": "SWC",
+   "campus": "수원여자대학교 인제캠퍼스",
+   "km": 5.6
+  }
+ ]
+}
